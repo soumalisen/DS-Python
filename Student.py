@@ -19,7 +19,6 @@ class Student:
             print("No marks available.")
 
     def set_marks(self, marks_list):
-        # Method to set marks for the student
         self.marks = marks_list
 
 
